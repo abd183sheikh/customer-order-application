@@ -1,10 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import Fetchdata from './component/Fetchdata';
+
 
 function App() {
   return (
     
-    <h1>hello</h1>
+    <>
+    
+    <Fetchdata/>
+    
+    </>
   );
 }
 
